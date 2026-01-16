@@ -9,4 +9,8 @@ for(int i = 0; i < 10; i++)
 
 //Mathias Answer 1: Stalin Sort
 
+//question-1-Paola
 //I love the cats
+
+//I love dogs
+
