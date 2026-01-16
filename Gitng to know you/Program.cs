@@ -6,3 +6,5 @@ for(int i = 0; i < 10; i++)
 }
 
 //Question 1: What is your favorite sort algorithm??
+
+//Mathias Answer 1: Stalin Sort
