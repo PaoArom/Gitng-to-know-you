@@ -4,4 +4,5 @@ for(int i = 0; i < 10; i++)
 {
     Console.Write(i + " ");
 }
-Console.WriteLine();
+
+//Question 1: What is your favorite sort algorithm?
